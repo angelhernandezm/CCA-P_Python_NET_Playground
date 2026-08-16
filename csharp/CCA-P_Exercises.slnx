@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Exercises.FactoryPattern.Tests/Exercises.FactoryPattern.Tests.csproj" />
+  <Project Path="Exercises.FactoryPattern/Exercises.FactoryPattern.csproj" />
+</Solution>

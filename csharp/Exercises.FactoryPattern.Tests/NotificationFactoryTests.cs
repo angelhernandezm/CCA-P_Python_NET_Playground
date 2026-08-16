@@ -1,5 +1,4 @@
 using Exercises.FactoryPattern;
-using Xunit;
 
 namespace Exercises.FactoryPattern.Tests;
 
